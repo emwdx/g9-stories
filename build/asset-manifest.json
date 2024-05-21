@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/grade9stories/static/css/main.d8f262ad.css",
+    "main.js": "/grade9stories/static/js/main.f35bec77.js",
+    "static/js/453.8ecb2832.chunk.js": "/grade9stories/static/js/453.8ecb2832.chunk.js",
+    "index.html": "/grade9stories/index.html",
+    "main.d8f262ad.css.map": "/grade9stories/static/css/main.d8f262ad.css.map",
+    "main.f35bec77.js.map": "/grade9stories/static/js/main.f35bec77.js.map",
+    "453.8ecb2832.chunk.js.map": "/grade9stories/static/js/453.8ecb2832.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8f262ad.css",
+    "static/js/main.f35bec77.js"
+  ]
+}
